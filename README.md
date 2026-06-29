@@ -10,7 +10,7 @@ I'm a student at UTSA majoring in a Multidisciplinary degree with a focus on Cyb
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)] https://github.com/drewtgarcia
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)] (https://github.com/drewtgarcia)
 
 
 _"Work hard, play hard"_
