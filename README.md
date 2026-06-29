@@ -2,8 +2,7 @@
 ##  About Me
 I'm a student at UTSA majoring in a Multidisciplinary degree with a focus on Cyber Intelligence.
 ## ⚒️ Skills
-![Microsoft Office](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Microsoft Office](https://shields.io)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ## 🎉 Interests
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
